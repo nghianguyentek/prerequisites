@@ -21,7 +21,7 @@ git push -u origin feature/abc
 
 `git checkout branch-name`
 
-If you've made some changes in the current branch, you must either commit or stash them before switching.
+If you've made some changes in the current branch, you must either commit, stash, or remove them before switching.
 
 ### Examples
 
